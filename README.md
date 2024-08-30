@@ -6,7 +6,7 @@ Hi! My name is Jordan Joelson 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,c,cpp,python,java,SQL,mongo,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,c,cpp,python,java,mongo,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <br/>
 
 ### Socials
