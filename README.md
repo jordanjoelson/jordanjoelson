@@ -1,4 +1,4 @@
-Hi! My name is Jordan Joelson 😄
+Hi! My name is Jordan Joelson 👋
 ========================================================================================================================================
 
 🌍  I am a Full-Stack Developer based in the US.
