@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2E3440center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi👋;+I'm+Jordan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=2E4440&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi👋;+I'm+Jordan;" />
 </h1>
 
 <h3 align="center">A passionate full-stack developer based in the US. </h3>
