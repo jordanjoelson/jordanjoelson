@@ -15,13 +15,13 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:jordan@jordanjoelson.com" style="margin: 0 10px; text-decoration: none;">
+  <a href="mailto:jordan@jordanjoelson.com" style="margin: 0 15px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/jordanjoelson" target="_blank" style="margin: 0 10px; text-decoration: none;">
+  <a href="https://linkedin.com/in/jordanjoelson" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jordanjoelson.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
+  <a href="https://jordanjoelson.com" target="_blank" style="margin: 0 15px; text-decoration: none;">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
