@@ -70,7 +70,7 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanjoelson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=true&order=2&cache_seconds=86400" height="140" alt="languages graph" />
-   <img src="https://streak-stats.demolab.com?user=jordanjoelson&locale=en&mode=daily&hide_border=true&border_radius=5&theme=dark&background=303030&ring=F0A500&fire=E25822&currStreakLabel=E25822" height="140" alt="streak graph" />
+   <img src="https://streak-stats.demolab.com?user=jordanjoelson&locale=en&mode=daily&theme=ambient_gradient&hide_border=true&border_radius=5&ring=0F2027&fire=2C5364&currStreakLabel=203A43" height="140" alt="streak graph" />
 
 
 ###
