@@ -69,8 +69,8 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanjoelson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false&order=2" height="140" alt="languages graph" />
-   <img src="https://streak-stats.demolab.com?user=jordanjoelson&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanjoelson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=true&order=2&cache_seconds=86400" height="140" alt="languages graph" />
+   <img src="https://streak-stats.demolab.com?user=jordanjoelson&locale=en&mode=daily&theme=ambient_gradient&hide_border=true&border_radius=5&order=3&cache_seconds=86400" height="140" alt="streak graph" />
 </div>
 
 ###
