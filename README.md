@@ -69,8 +69,8 @@
 ###
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjoelson&layout=pie&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jordanjoelson&theme=ambient-gradient" alt="GitHub Streak" /></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanjoelson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false&order=2" height="140" alt="languages graph" />
+   <img src="https://streak-stats.demolab.com?user=jordanjoelson&locale=en&mode=daily&theme=ambient_gradient&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
 </div>
 
 ###
