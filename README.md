@@ -1,1 +1,1 @@
-![My Profile](images/carbon.png)
+![My Profile](images/github-readme.png)
