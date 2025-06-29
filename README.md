@@ -1,1 +1,1 @@
-![My Profile](images/carbon1.png)
+![My Profile](images/carbon.png)
