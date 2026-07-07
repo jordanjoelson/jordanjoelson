@@ -1,1 +1,1 @@
-![My Profile](images/github-readme.png)
+Undergraduate Computer Science student at UT Dallas.
